@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "src_sample_function_app": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7205",
+      "launchBrowser": false
+    }
+  }
+}
